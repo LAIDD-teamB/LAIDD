@@ -264,25 +264,6 @@ conda install -c conda-forge rdkit
 - **TSV**: 탭 구분, UTF-8
 - 필수 컬럼명 확인 필요
 
-## 📈 예상 실행 시간
-
-### 환경
-- GPU: NVIDIA A100 (40GB) 권장
-- RAM: 32GB+ 권장
-
-### 실행 시간
-- **Pretraining**: 2-4시간
-- **Fine-tuning**: 30분-1시간
-- **Generative Model**: 2-3시간
-- **전체**: 약 5-8시간
-
-## 🎁 주요 기능
-
-✅ **자동 경로 관리**: 어디서든 실행 가능
-✅ **결과 자동 저장**: results/ 폴더에 체계적 저장
-✅ **중단 지점 재시작**: 기존 결과 건너뛰기
-✅ **데이터 검증**: 실행 전 자동 확인
-
 ## 📝 추가 문서
 
 - **[QUICKSTART.md](QUICKSTART.md)**: 빠른 시작 가이드
@@ -303,3 +284,4 @@ conda install -c conda-forge rdkit
 **업데이트**: 2025-10-17
 
 **LAIDD Team**
+
